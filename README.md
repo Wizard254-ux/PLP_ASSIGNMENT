@@ -75,6 +75,7 @@ software engineering is a branch of computer science used for developing, testin
 - Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 **Version Control Systems (VCS) -** are software tools that help software teams manage changes to source code over time. eg Git
+
 **importance:**
 - Collaboration: Enables multiple developers to work on the same codebase without conflicts.
 - Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
@@ -84,15 +85,21 @@ software engineering is a branch of computer science used for developing, testin
 ***7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
 
 - rapid technological advancement places considerable pressure on software engineers to stay current.
- **Solution:** adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
+  
+ **Solution:** adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry.
+   
 - Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
-**Solution:** adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
+**Solution:** adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints
+  
 - Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
  **Solution:** Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
+  
 - Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
 **Solution:** engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
+  
 - Software Security - Programming secure software is a complex and challenging task. 
 **Solution:** research ways to defend against hacking, malware, phishing, insider and third-party threats
+  
 - Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 **Solution:** Use scalable architecture, Emphasize reliability.
 
