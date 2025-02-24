@@ -27,7 +27,8 @@ software engineering is a branch of computer science used for developing, testin
 - testing - examine the software for any bugs and glitches
   
 ***4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.***
-    **waterfall methodology -** Linear and sequential, each phase is completed before moving on. 
+
+ **waterfall methodology -** Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
 - changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
