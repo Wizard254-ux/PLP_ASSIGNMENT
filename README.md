@@ -1,7 +1,7 @@
 # PLP_ASSIGNMENT
-SE_Day1_Assignment
+##SE_Day1_Assignment
 
-#Part 1: Introduction to Software Engineering
+###Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
