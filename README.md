@@ -14,10 +14,12 @@ software engineering is a branch of computer science used for developing, testin
 
 
 ***2.Identify and describe at least three key milestones in the evolution of software engineering.*** 
-- mastering complexity
-- Mastering process
-- Mastering machine
-
+- mastering complexity- As software became more advanced, it also became more complex. Engineers developed ways to manage this complexity by using structured programming,and modular 
+     coding to break large problems into smaller, manageable parts.
+- Mastering process - Over time, engineers realized they needed organized methods to build software efficiently. This led to the creation of software development processes like the 
+       Waterfall Model and Agile Methodology, which help teams plan, build, and test software in a structured way.
+- Mastering machine -  In the early days, programmers had to write code directly for specific machines (low-level programming). Over time, higher-level programming languages like 
+    Python and Java were developed, making it easier to write software that could run on different types of computers without needing to rewrite everything from scratch.
 
 ***3.List and briefly explain the phases of the Software Development Life Cycle.***
 - planning - identify the software requirement or purpose and scope.
