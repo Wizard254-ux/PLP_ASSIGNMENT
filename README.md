@@ -84,22 +84,22 @@ software engineering is a branch of computer science used for developing, testin
 
 ***7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
 
-- rapid technological advancement places considerable pressure on software engineers to stay current.
+- rapid technological advancement places considerable pressure on software engineers to stay current.<br>
  **Solution:** adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry.<br>
    
-- Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
+- Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.<br>
 **Solution:** adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints<br>
   
-- Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.
+- Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.<br>
  **Solution:** Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.<br>
   
-- Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.
+- Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.<br>
 **Solution:** engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.<br>
   
-- Software Security - Programming secure software is a complex and challenging task.
+- Software Security - Programming secure software is a complex and challenging task.<br>
 **Solution:** research ways to defend against hacking, malware, phishing, insider and third-party threats<br>
   
-- Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
+- Software Accessibility and Usability - Overly complex software can frustrate or confuse users. <br>
 **Solution:** Use scalable architecture, Emphasize reliability.<br>
 
 ***8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.***
@@ -127,8 +127,8 @@ software engineering is a branch of computer science used for developing, testin
 
 ***2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.***
 
-  Draw a picture of a person<br>
-  Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+  **vague prompt** Draw a picture of a person<br>
+  **improved prompt** Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
   
   **reason why improved prompt is more effective**
 - Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
