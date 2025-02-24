@@ -34,13 +34,14 @@ software engineering is a branch of computer science used for developing, testin
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
    
-    **agile methodology -** Iterative and incremental, with multiple cycles (sprints).
+ **agile methodology -** Iterative and incremental, with multiple cycles (sprints).
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
 
 
 ***5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.***
+
  **Software Developer -** developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
  - collaborating with other team members to ensure best practice when developing software.
