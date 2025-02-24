@@ -19,46 +19,46 @@ software engineering is a branch of computer science used for developing, testin
 - Mastering machine
 
 
-***List and briefly explain the phases of the Software Development Life Cycle.***
+***3.List and briefly explain the phases of the Software Development Life Cycle.***
 - planning - identify the software requirement or purpose and scope.
 - requirement analysis - identify the final user specification. 
 - design - building the framework. 
 - coding - converting software design into tangible code.
 - testing - examine the software for any bugs and glitches
-***Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.***
-- waterfall methodology - Linear and sequential, each phase is completed before moving on. 
+  
+***4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.***
+    **waterfall methodology -** Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
 - changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
-
-
-***agile methodology - Iterative and incremental, with multiple cycles (sprints).***
+   
+    **agile methodology -** Iterative and incremental, with multiple cycles (sprints).
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
 
 
-***Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.***
- **Software Developer - developing applications,programs and systems using programming languages and frameworks.**
+***5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.***
+ **Software Developer -** developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
-- collaborating with other team members to ensure best practice when developing software.
+ - collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
- - 
-  **Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.**
+  
+  **Quality Assurance Engineer -** collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  - confirm that the software meets the requirement before deployment. 
 - analyse the product to identify bugs and suggest changes to make them more efficient. 
 - develop and execute automation scripts using open source tools.
   
-**Project Manager - assembles and lead the software development team.**
+**Project Manager -** assembles and lead the software development team.
  - discuss the project and it's requirement with the client and software developers.
  - create blueprint for the project.
  - tracking and communicating information regarding the project milestone.
  - deliver the complete software to the client and regularly check its performance.
 
 
-***Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.***
+***6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.***
 
 **An integrated development environment (IDE)** is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 
@@ -79,7 +79,8 @@ software engineering is a branch of computer science used for developing, testin
 - Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 - Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-***What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
+***7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
+
 - rapid technological advancement places considerable pressure on software engineers to stay current.
  **Solution:** adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 - Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
@@ -93,26 +94,30 @@ software engineering is a branch of computer science used for developing, testin
 - Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 **Solution:** Use scalable architecture, Emphasize reliability.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
- Integration tests - verify that different modules or services used by your application work well together.
- - help to ensure data flows smoothly between modules and interfaces work as expected.
- System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
- -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
-Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
-- Whether the software meets the needs of the end-user and is ready for deployment.
-#Part 2: Introduction to AI and Prompt Engineering
+***8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.***
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+- Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software.
+   it ensures that each unit performs its intended function correctly, isolated from other components.
+- Integration tests - verify that different modules or services used by your application work well together.
+  help to ensure data flows smoothly between modules and interfaces work as expected.
+- System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
+  It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+- Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
+   Whether the software meets the needs of the end-user and is ready for deployment.
+###Part 2: Introduction to AI and Prompt Engineering
+
+***1.Define prompt engineering and discuss its importance in interacting with AI models.***
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
-Importance:
-Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
-Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
-developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
+**Importance:**
+- Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human - bias in the large language models’ training data.
+- Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+- developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large 
+  language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Draw a picture of a person
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
-Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
-Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+***2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.***
+  Draw a picture of a person
+  Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+  **reason why improved prompt is more effective**
+- Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
+- Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
+- Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
