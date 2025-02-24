@@ -113,7 +113,7 @@ software engineering is a branch of computer science used for developing, testin
 - Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
    Whether the software meets the needs of the end-user and is ready for deployment.
   
-###Part 2: Introduction to AI and Prompt Engineering
+### Part 2: Introduction to AI and Prompt Engineering
 
 ***1.Define prompt engineering and discuss its importance in interacting with AI models.***<br>
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
